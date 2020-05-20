@@ -3,7 +3,7 @@ A "link cable" to bring together GB(C) and 3DS Virtual Console versions
 
 This project is intended to create a communication bridge between Virtual Console and original cartridge releases of various Nintendo games. The primary focus is on enabling trading between the VC and cartridge releases of Pokemon Red/Blue/Yellow and Gold/Silver/Crystal.
 
-GB3D-Link uses code from and based on the Citra 3DS emulator for its work on local communications, and is licensed under the GPLv2 (or any later version). Refer to the license.txt file included.
+GB3D-Link uses code from and based on the Citra 3DS emulator for its work on local communications, and is licensed under the GPLv2 (or any later version). Refer to the LICENSE file included.
 
 # Project goals:
 * to successfully emulate 3DS local wireless communications, while minimizing the amount of other system emulation required
