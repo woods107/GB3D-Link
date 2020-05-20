@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<releases>
+<release>
+	<id>1113</id>
+	<name>Pokemon Red</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKRD</serial>
+	<titleid>000400000B000000</titleid>
+	<imgcrc>13602313</imgcrc>
+	<filename>bbb-p-pkrd</filename>
+	<releasename>Pokemon.Red.GB.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>3854336</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1110</id>
+	<name>Pokemon Blue</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKBL</serial>
+	<titleid>000400000B000100</titleid>
+	<imgcrc>4780937D</imgcrc>
+	<filename>bbb-p-pkbl</filename>
+	<releasename>Pokemon.Blue.GB.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>3854336</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1115</id>
+	<name>Pokemon Yellow</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKYL</serial>
+	<titleid>000400000B000200</titleid>
+	<imgcrc>F8BAB701</imgcrc>
+	<filename>bbb-p-pkyl</filename>
+	<releasename>Pokemon.Yellow.GBC.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>3854336</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1112</id>
+	<name>Pokemon Gold</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKGD</serial>
+	<titleid>000400000B000300</titleid>
+	<imgcrc>7C19F00D</imgcrc>
+	<filename>bbb-p-pkgd</filename>
+	<releasename>Pokemon.Gold.GB.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>4911104</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1114</id>
+	<name>Pokemon Silver</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKSV</serial>
+	<titleid>000400000B000400</titleid>
+	<imgcrc>AA8315F3</imgcrc>
+	<filename>bbb-p-pksv</filename>
+	<releasename>Pokemon.Silver.GBC.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>4911104</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+<release>
+	<id>1111</id>
+	<name>Pokemon Crystal</name>
+	<publisher>BigBlueBox</publisher>
+	<region>EUR</region>
+	<languages>en</languages>
+	<group>BigBlueBox</group>
+	<imagesize>1024</imagesize>
+	<serial>BBB-PKCR</serial>
+	<titleid>000400000B000500</titleid>
+	<imgcrc>C2DDB70E</imgcrc>
+	<filename>bbb-p-pkcr</filename>
+	<releasename>Pokemon.Crystal.GBC.VC.3DS-BigBlueBox</releasename>
+	<trimmedsize>4911104</trimmedsize>
+	<firmware>4.0.0</firmware>
+	<type>3</type>
+	<card>1</card>
+</release>
+</releases>
