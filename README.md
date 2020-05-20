@@ -13,4 +13,4 @@ GB3D-Link uses code from and based on the Citra 3DS emulator for its work on loc
 
 # Possible complications:
 * timing discrepancies in relation to hardware differences (GB to adapter hardware, adapter hardware to 3DS local wireless)
-** link cable is synchronous, requires precise clock timings (Can communications be handled in stages? For example, use placeholder/dummy wireless connections to establish connection to 3DS, convert to link cable format, and begin sending data to GB *after?* Or use placeholder/dummy "filler" signal over link cable until 3DS packets are translated?)
+  - link cable is synchronous, requires precise clock timings (Can communications be handled in stages? For example, use placeholder/dummy wireless connections to establish connection to 3DS, convert to link cable format, and begin sending data to GB *after?* Or use placeholder/dummy "filler" signal over link cable until 3DS packets are translated?)
